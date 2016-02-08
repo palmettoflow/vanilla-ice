@@ -170,3 +170,11 @@ const init = () => {
 
 export { init }
 ```
+
+## FAQ
+
+(See Issues)
+
+## license
+
+MIT
